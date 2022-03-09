@@ -1,2 +1,1 @@
-# TinDog
-Meeting with other dogs
+TinDog Starting Files
